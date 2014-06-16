@@ -10,7 +10,7 @@ For each article/file the program would randomly select a paragraph, remove it f
 
 The similarirty functions worked as follows: given the removed paragraph and two consecutive paragraphs from the article they calculated a similarity score. If a score was high enough the program determined that the removed paragraph belonged, i.e. was originally in between, the two paragraphs. This result along with semantic composition of the article was written to a CSV file for analysis.
 
-Analysis of the results was done in R, see the RStuff.R file. I am trying to make the final write up of this project publicly accessible online. The writeup gives a much better description and explanation of the project and the similarity functions.
+Analysis of the results was done in R, see the RStuff.R file. The writeup gives a much better description and explanation of the project and the similarity functions. It can be found publicly through my Google drive by following this link: [final writeup](https://drive.google.com/file/d/0B0ncyoo8Ec15a0lYNlVIU2VJa2M/edit?usp=sharing).
 
 ===============
 
